@@ -1,4 +1,3 @@
-Fivem泄露网www.vag.gg
 # Fivem插件-OKOK通知插件
 # 插件使用教程
 --列子：
