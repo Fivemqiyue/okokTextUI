@@ -1,4 +1,4 @@
-# Fivem插件
+# Fivem插件-OKOK通知插件
 # 文件名设置为：okokTextUI
 # 插件使用教程
 --列子：
