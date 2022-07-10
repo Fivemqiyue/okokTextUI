@@ -1,5 +1,5 @@
+Fivem泄露网www.vag.gg
 # Fivem插件-OKOK通知插件
-# 文件名设置为：okokTextUI
 # 插件使用教程
 --列子：
 exports['okokNotify']:Alert("Title", "Message", Time, 'type')
